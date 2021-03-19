@@ -4,3 +4,7 @@
 cmake-build-debug/
 
 *.txt
+/build/CMakeFiles/
+/build/cmake_install.cmake
+/build/lesson1_3.cbp
+/build/libtest.dll.a
